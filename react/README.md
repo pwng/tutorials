@@ -1,5 +1,6 @@
 # React Tutorial
 
+```
 mkdir temp
 cd temp
 git clone https://github.com/pwng/tutorials.git
@@ -12,5 +13,6 @@ npm install react-dom --save
 npm install react-router --save
 npm install webpack
 npm run webpack
+```
 
 
